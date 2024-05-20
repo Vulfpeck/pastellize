@@ -1,0 +1,21 @@
+{
+  "name": "pastellize",
+  "displayName": "pastellize",
+  "description": "A pastel color scheme centered around purple color",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastellize",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastellize-color-theme.json"
+      }
+    ]
+  }
+}
