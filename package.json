@@ -1,9 +1,9 @@
 {
   "name": "pastellize",
   "displayName": "pastellize",
-  "description": "A pastel color theme centered inspired by palenight color scheme & vesper syntax highlighting",
+  "description": "A pastel color theme inspired by palenight color scheme & vesper's minimal syntax highlighting",
   "icon": "images/icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "vulfpeck",
   "engines": {
     "vscode": "^1.89.0"
