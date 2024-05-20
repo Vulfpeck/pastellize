@@ -4,6 +4,7 @@
   "description": "A pastel color theme centered inspired by palenight color scheme & vesper syntax highlighting",
   "icon": "images/icon.png",
   "version": "0.0.1",
+  "publisher": "vulfpeck",
   "engines": {
     "vscode": "^1.89.0"
   },
