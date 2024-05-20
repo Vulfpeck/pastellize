@@ -9,6 +9,15 @@
   "categories": [
     "Themes"
   ],
+  "homepage": "https://github.com/Vulfpeck/pastellize",
+  "bugs": {
+    "url": "https://github.com/Vulfpeck/pastellize",
+    "email": "tushar.paliwal1997@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Vulfpeck/pastellize.git"
+  },
   "contributes": {
     "themes": [
       {
