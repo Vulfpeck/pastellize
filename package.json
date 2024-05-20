@@ -1,7 +1,7 @@
 {
   "name": "pastellize",
   "displayName": "pastellize",
-  "description": "A pastel color scheme centered around purple color",
+  "description": "A pastel color theme centered inspired by palenight color scheme & vesper syntax highlighting",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
