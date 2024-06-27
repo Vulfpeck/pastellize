@@ -3,10 +3,13 @@
   "displayName": "pastellize",
   "description": "A pastel color theme inspired by palenight color scheme & vesper's minimal syntax highlighting",
   "icon": "images/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "vulfpeck",
   "engines": {
     "vscode": "^1.89.0"
+  },
+  "scripts": {
+    "do:publish": "npx @vscode/vsce package && npx @vscode/vsce publish"
   },
   "categories": [
     "Themes"
@@ -26,6 +29,11 @@
         "label": "Pastellize",
         "uiTheme": "vs-dark",
         "path": "./themes/Pastellize-color-theme.json"
+      },
+      {
+        "label": "Pastellize Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastellize-color-theme-muted.json"
       }
     ]
   }
